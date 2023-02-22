@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    box-shadow: black;
+}
+.logo-div{
+    display: flex;
+}
+.logo-text{
+    color: cornflowerblue;
+    padding-left: 15px;
+    padding-top: 7px;
+    font-size: 35px;
+}
+.logo-img{
+    height: 90px;
+    width: 100px;
+    align-items: center;
+    padding-left: 60px;
+    padding-top: 13px;
+ 
+}
+
+
+.nav-items > ul{
+    list-style-type: none;
+    display: flex;
+    padding-right: 180px;
+    cursor: pointer; 
+    
+
+}
+.nav-items > ul > li{
+    padding: 20px;
+    font-size: 22px;
+   
+}
+
+.button{
+    color: cornflowerblue;
+    padding-right: 20px;
+}

@@ -1,0 +1,12 @@
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 0rem;
+}
+
+.restaurant-list{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
